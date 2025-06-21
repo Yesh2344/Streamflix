@@ -1,8 +1,4 @@
-# Netflix-like Movie Streaming Platform
-  
-This is a project built with [Chef](https://chef.convex.dev) using [Convex](https://convex.dev) as its backend.
-  
-This project is connected to the Convex deployment named [`neat-ibex-638`](https://dashboard.convex.dev/d/neat-ibex-638).
+
   
 ## Project structure
   
