@@ -4,7 +4,7 @@ This is a project built with [Chef](https://chef.convex.dev) using [Convex](http
   
 This project is connected to the Convex deployment named [`neat-ibex-638`](https://dashboard.convex.dev/d/neat-ibex-638).
   
-## Project structure
+
   
 The frontend code is in the `app` directory and is built with [Vite](https://vitejs.dev/).
   
