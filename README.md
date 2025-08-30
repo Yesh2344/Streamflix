@@ -8,7 +8,9 @@ This project is connected to the Convex deployment named [`neat-ibex-638`](https
   
 The frontend code is in the `app` directory and is built with [Vite](https://vitejs.dev/).
   
-
+The backend code is in the `convex` directory.
+  
+`npm run dev` will start the frontend and backend servers.
 
 ## App authentication
 
